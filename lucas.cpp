@@ -10,6 +10,7 @@ int main()
     }
 
 cout << "\n このばんぐ";
+>>> main
 
     return 0;
 }
