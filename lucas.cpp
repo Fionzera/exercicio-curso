@@ -9,7 +9,7 @@ int main()
         cout << loop << "   ";
     }
 
-cout << "\n このばんぐ"/
+cout << "\n このばんぐーめんどうくさいね";
 
     return 0;
 }
